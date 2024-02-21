@@ -1,4 +1,4 @@
-![MasterHead](https://instagram.fada1-11.fna.fbcdn.net/v/t39.308…1-iva_5Qv93tiuXqlmHCDg&oe=65D9ED80&_nc_sid=fc8dfb)
+![MasterHead](https://scontent.fada1-14.fna.fbcdn.net/v/t1.18169-9/1513666_639390026113413_983278184_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c2f564&_nc_ohc=fegV5TRmp8YAX8BH2pt&_nc_ht=scontent.fada1-14.fna&oh=00_AfDXRzSk9BeVbOGmLuLYviY1J2VnGKxK72GAnLanLrhqDA&oe=65FCF342)
 <h1 align="center">Hi 👋, I'm Nezaket Kaya</h1>
 - 🌱 I’m currently learning **ASP.NET Core**
 
