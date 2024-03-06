@@ -1,4 +1,4 @@
-<h2 style="text-align: center; color: #800000;">Hi 👋, I'm Nezaket</h2>
+<h2 align="center" color: red >Hi 👋, I'm Nezaket </h2>
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
