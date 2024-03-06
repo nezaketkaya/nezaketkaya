@@ -7,10 +7,6 @@
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
- <a href="http://www.github.com/nezaketkaya"><img src="https://github-profile-trophy.vercel.app/?username=nezaketkaya&theme=onedark&column=3"  alt="nezaketkaya's GitHub stats" />
-</p>
-
-<p align="center">
  <a href="http://www.github.com/nezaketkaya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezaketkaya&theme=dark&layout=compact&langs_count=8"  alt="nezaketkaya's GitHub stats" />
 </p>
 
